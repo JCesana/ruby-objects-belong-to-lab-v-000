@@ -1,3 +1,3 @@
 def Song 
-  attr_accessor :artist , :title 
+  attr_accessor :artist, :title 
 end 
